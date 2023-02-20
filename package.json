@@ -2,11 +2,11 @@
 	"name": "drreinao-icons",
 	"displayName": "Dr. Reinão Icons",
 	"description": "Dr. Reinão Icons",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "wribeiiro",
 	"repository": {
-	  "type": "git",
-	  "url": "https://github.com/wribeiiro/drreinao-icons"
+		"type": "git",
+	  	"url": "https://github.com/wribeiiro/drreinao-icons"
 	},
 	"engines": {
 		"vscode": "^1.17.0"
