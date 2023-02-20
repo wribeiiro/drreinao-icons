@@ -1,0 +1,68 @@
+{
+    "iconDefinitions": {
+        "_root_folder": {
+            "iconPath": "./images/root_folder_closed.png"
+        },
+        "_root_folder_open": {
+            "iconPath": "./images/root_folder_open.png"
+        },
+        "_folder": {
+            "iconPath": "./images/folder_closed.png"
+        },
+        "_folder_open": {
+            "iconPath": "./images/folder_open.png"
+        },
+        "_file": {
+            "iconPath": "./images/file.png"
+        },
+        "json": {
+            "iconPath": "./images/json.png"
+        },
+        "html": {
+            "iconPath": "./images/html.png"
+        },
+        "csharp": {
+            "iconPath": "./images/csharp.png"
+        },
+        "css": {
+            "iconPath": "./images/css.png"
+        },
+        "javascript": {
+            "iconPath": "./images/javascript.png"
+        },
+        "php": {
+            "iconPath": "./images/php.png"
+        },
+        "java": {
+            "iconPath": "./images/java.png"
+        }
+    },
+    "folderExpanded": "_folder_open",
+    "folder": "_folder",
+    "file": "_file",
+    "rootFolderExpanded": "_root_folder_open",
+    "rootFolder": "_root_folder",
+    "fileExtensions": {
+        "json": "json",
+        "json-tmlanguage": "json",
+        "html": "html",
+        "htm": "html",
+        "html_vm": "html",
+        "asp": "html",
+        "cs": "csharp",
+        "css": "css",
+        "js": "javascript",
+        "ejs": "javascript",
+        "esx": "javascript",
+        "inc": "php"
+    },
+    "languageIds": {
+        "javascript": "javascript",
+        "css": "css",
+        "php": "php",
+        "java": "java"
+    },
+    "highContrast": {
+        // overrides for high contrast
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "drreinao-icons",
+    "displayName": "Dr. Reinão Icons",
+    "description": "Dr. Reinão Icons",
+    "version": "0.0.1",
+    "publisher": "wribeiiro",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/wriibeiro/drreinao-icons"
+    },
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "icon": "icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "iconThemes": [
+			{
+				"id": "drreinao",
+				"label": "Dr. Reinão Icons",
+				"path": "./fileicons/reinao-icon-theme.json"
+			}
+		]
+    }
+}
